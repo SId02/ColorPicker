@@ -1,0 +1,218 @@
+body {
+    cursor: pointer;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
+    grid-row-gap: 0;
+    grid-column-gap: 0;
+}
+
+p {
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 30px;
+    color: #fff;
+}
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+h2.title {
+    text-align: center;
+    color: #000000;
+    border: 1px dotted black;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.white {
+    background-color: #fff;
+    color: #000000;
+}
+
+.blue {
+    background-color: #0000FF;
+}
+
+.grey {
+    background-color: #808080;
+}
+
+.orange {
+    background-color: #FFA500;
+}
+
+.purple {
+    background-color: #800080;
+}
+
+.red {
+    background-color: #FF0000;
+}
+
+.yellow {
+    background-color: #FFFF00;
+    color: #000000;
+}
+
+.coral {
+    background-color: #FF7F50;
+}
+
+.violet {
+    background-color: #EE82EE;
+}
+
+.yellowgreen {
+    background-color: #9ACD32;
+}
+
+.cyan {
+    background-color: #00FFFF;
+}
+
+.silver {
+    background-color: #C0C0C0;
+}
+
+.navy {
+    background-color: #000080;
+}
+
+.gold {
+    background-color: #FFD700;
+}
+
+
+/*Material Design Base COLORS*/
+
+.blackmd {
+    background-color: #000000;
+}
+
+.whitemd {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.bluemd {
+    background-color: #2196f3;
+}
+
+.greymd {
+    background-color: #9e9e9e;
+}
+
+.orangemd {
+    background-color: #ff9800;
+}
+
+.purplemd {
+    background-color: #9c27b0;
+}
+
+.redmd {
+    background-color: #f44336;
+}
+
+.yellowmd {
+    background-color: #ffeb3b;
+    color: #000000;
+}
+
+
+.indigomd {
+    background-color: #3f51b5;
+}
+
+.cyanmd {
+    background-color: #00bcd4;
+}
+
+.tealmd {
+    background-color: #009688;
+}
+
+.limemd {
+    background-color: #cddc39;
+}
+
+.ambermd {
+    background-color: #ffc107;
+}
+
+.brownmd {
+    background-color: #795548;
+}
+
+
+/*  social media  */
+
+.facebook {
+    background-color: #3b5998;
+}
+
+.whatsapp {
+    background-color: #64D448;
+}
+
+.twitter {
+    background-color: #00aced;
+}
+
+.linkedin {
+    background-color: #007bb6;
+}
+
+.youtube {
+    background-color: #bb0000;
+}
+
+.github {
+    background-color: #171516;
+}
+
+.googleplus {
+    background-color: #dd4b39;
+}
+
+.snapchat {
+    background-color: #FFFA37;
+    color: #000000;
+}
+
+.pinterest {
+    background-color: #cb2027;
+}
+
+.stackoverflow {
+    background-color: #f58233;
+}
+
+.blogger {
+    background-color: #fb8f3d;
+}
+
+.skype {
+    background-color: #00aff0;
+}
+
+.reddit {
+    background-color: #ff5700;
+}
+
+.dribble {
+    background-color: #ea4c89;
+}
+
+
+.quora {
+    background-color: #a82400;
+}
